@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mel.
-- 👀 I’m interested in baking, spinning and reading One Piece.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m just waddling through code. 
+- 👋 Hi, I’m Meilliona.
+- 🌱 I'm proficent in Node.js, Express.js, postgresSQL and PUG. 
+- 💞️ I’m current learning React.js and mongoDB.
 
 <!---
 anotruong/anotruong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
