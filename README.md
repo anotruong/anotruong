@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meilliona.
-- 🌱 I'm proficent in Node.js, Express.js, postgresSQL and PUG. 
-- 💞️ I’m current learning React.js and mongoDB.
+- 🌱 I'm proficent in both functional and object-oriented JavaScript, CSS, PUG and following framworks and databases: Node.js, Express.js, React.js, PostgreSQL and MongoDB. 
+
 
 <!---
 anotruong/anotruong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
