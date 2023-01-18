@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meilliona.
-- 🌱 I'm proficent in both functional and object-oriented JavaScript, CSS, PUG and following framworks and databases: Node.js, Express.js, React.js, PostgreSQL and MongoDB. 
+- 🌱 I'm proficient in both functional and object-oriented JavaScript, CSS, PUG and following framworks and databases: Node.js, Express.js, React.js, PostgreSQL and MongoDB. 
 
 
 <!---
